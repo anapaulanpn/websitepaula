@@ -1,2 +1,2 @@
 <?php
-echo "Meu primeiro site com integração continua no azzure \n";
+echo "Meu primeiro site com integração continua no azzure\n";
